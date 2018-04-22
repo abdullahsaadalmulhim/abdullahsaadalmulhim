@@ -1,0 +1,15 @@
+
+#include <iostream.h> #include <conio.h> 
+void main ()
+{      int x, y; 
+cout << "x= ";  
+cin >> x;  
+cout << "y= ";   
+cin >> y; 
+cout << "x+y= " << x+y << endl;  
+cout << "x-y= " << x-y << endl;  
+cout << "x*y= " << x*y << endl;  
+     if (y != 0)      cout << "x/y= " << (float)x/y << endl; 
+     getch ();
+     } 
+  
