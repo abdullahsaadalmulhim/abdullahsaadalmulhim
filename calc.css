@@ -12,4 +12,4 @@ cout << "x*y= " << x*y << endl;
      if (y != 0)      cout << "x/y= " << (float)x/y << endl; 
      getch ();
      } 
-  
+
